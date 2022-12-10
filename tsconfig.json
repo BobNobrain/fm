@@ -1,0 +1,16 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "exactOptionalPropertyTypes": true,
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "outDir": "dist",
+        "skipDefaultLibCheck": true,
+        "strict": true,
+        "target": "ES2015",
+        "useUnknownInCatchVariables": true
+    }
+}
